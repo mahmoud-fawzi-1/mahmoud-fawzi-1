@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="assets/profile-banner.png" alt="Mahmoud Fawzy | Aspiring Data Analyst" width="100%"/>
