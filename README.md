@@ -1,19 +1,4 @@
-<div align="center">
 
-
-
-### Aspiring Data Analyst | Computer and Information Science Student
-
-*Turning data into insights — learning, analyzing, and growing one project at a time.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoud-fawzi-1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-fawzi-628767387/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201153190275)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudfawzi.2g@gmail.com)
-
-</div>
-
----
 
 ## 👋 About Me
 
