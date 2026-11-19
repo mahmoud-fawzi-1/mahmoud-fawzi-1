@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img src="assets/profile-banner.png"
+       alt="Mahmoud Fawzi | Aspiring Data Analyst"
+       width="100%">
+</div>
 
 ## 👋 About Me
 
