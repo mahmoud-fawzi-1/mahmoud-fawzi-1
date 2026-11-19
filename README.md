@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Mahmoud Fawzy**, a Computer and Information Science student at **Sohag University, Egypt**, interested in Data Analysis and using data to discover patterns and support better decisions.
+Hi, I'm **Mahmoud Fawzi**, a Computer and Information Science student at **Sohag University, Egypt**, interested in Data Analysis and using data to discover patterns and support better decisions.
 
 I'm continuously developing my analytical and technical skills through learning, practice, and hands-on projects. I believe real progress comes from applying what I learn, exploring different approaches, and improving with every project.
 
