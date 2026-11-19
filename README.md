@@ -1,4 +1,5 @@
 <div align="center">
+![Uploading e8e9d35a-4617-49f0-a7ee-6c08a42d5eb8.png…]()
 
 
 ### Aspiring Data Analyst | Computer and Information Science Student
